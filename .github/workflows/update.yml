@@ -27,7 +27,7 @@ jobs:
 
       # 4. データ更新スクリプトの実行
       - name: Run update script
-        run: node scripts/update-standings.js
+        run: node src/scripts/update-standings.js
         env:
           # APIキーなどの秘密情報はGitHubのSettingsから登録して使います
           API_KEY: ${{ secrets.FOOTBALL_API_KEY }}
