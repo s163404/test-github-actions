@@ -2,8 +2,8 @@ name: Update Premier League Standings
 
 on:
   schedule:
-    # 1時間ごとに実行 (UTC時間なので日本時間の毎時0分)
-    - cron: '0 * * * *'
+    # 1日ごとに実行 (UTC21:00=日本時間6:00)
+    - cron: '0 21 * * *'
   workflow_dispatch:
     # ボタンひとつで手動実行もできるようにする設定
 
