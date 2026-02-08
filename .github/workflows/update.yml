@@ -1,0 +1,40 @@
+name: Update Premier League Standings
+
+on:
+  schedule:
+    # 1時間ごとに実行 (UTC時間なので日本時間の毎時0分)
+    - cron: '0 * * * *'
+  workflow_dispatch:
+    # ボタンひとつで手動実行もできるようにする設定
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      # 1. リポジトリのコードをチェックアウト（取得）
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # 2. Node.js環境をセットアップ
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      # 3. 依存関係のインストール (スクリプトに必要なライブラリがあれば)
+      - name: Install dependencies
+        run: npm install
+
+      # 4. データ更新スクリプトの実行
+      - name: Run update script
+        run: node scripts/update-standings.js
+        env:
+          # APIキーなどの秘密情報はGitHubのSettingsから登録して使います
+          API_KEY: ${{ secrets.FOOTBALL_API_KEY }}
+
+      # 5. もしファイルが更新されていたら、GitHubにコミット＆プッシュする
+      - name: Commit and Push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update standings.json [skip ci]"
+          file_pattern: 'src/data/standings.json'
