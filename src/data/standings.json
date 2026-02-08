@@ -123,30 +123,30 @@
     "rank": 13,
     "name": "Brighton & Hove Albion FC",
     "logo": "https://crests.football-data.org/397.png",
-    "played": 24,
+    "played": 25,
     "wins": 7,
-    "draws": 10,
+    "draws": 11,
     "losses": 7,
-    "points": 31
+    "points": 32
   },
   {
     "rank": 14,
+    "name": "Crystal Palace FC",
+    "logo": "https://crests.football-data.org/354.png",
+    "played": 25,
+    "wins": 7,
+    "draws": 9,
+    "losses": 9,
+    "points": 30
+  },
+  {
+    "rank": 15,
     "name": "Tottenham Hotspur FC",
     "logo": "https://crests.football-data.org/73.png",
     "played": 25,
     "wins": 7,
     "draws": 8,
     "losses": 10,
-    "points": 29
-  },
-  {
-    "rank": 15,
-    "name": "Crystal Palace FC",
-    "logo": "https://crests.football-data.org/354.png",
-    "played": 24,
-    "wins": 7,
-    "draws": 8,
-    "losses": 9,
     "points": 29
   },
   {
