@@ -13,36 +13,36 @@
     "rank": 2,
     "name": "Manchester City FC",
     "logo": "https://crests.football-data.org/65.png",
-    "played": 25,
-    "wins": 15,
+    "played": 26,
+    "wins": 16,
     "draws": 5,
     "losses": 5,
-    "points": 50
+    "points": 53
   },
   {
     "rank": 3,
     "name": "Aston Villa FC",
     "logo": "https://crests.football-data.org/58.png",
-    "played": 25,
+    "played": 26,
     "wins": 14,
-    "draws": 5,
+    "draws": 6,
     "losses": 6,
-    "points": 47
+    "points": 48
   },
   {
     "rank": 4,
-    "name": "Chelsea FC",
-    "logo": "https://crests.football-data.org/61.png",
+    "name": "Manchester United FC",
+    "logo": "https://crests.football-data.org/66.png",
     "played": 26,
     "wins": 12,
-    "draws": 8,
-    "losses": 6,
-    "points": 44
+    "draws": 9,
+    "losses": 5,
+    "points": 45
   },
   {
     "rank": 5,
-    "name": "Manchester United FC",
-    "logo": "https://crests.football-data.org/66.png",
+    "name": "Chelsea FC",
+    "logo": "https://crests.football-data.org/61.png",
     "played": 26,
     "wins": 12,
     "draws": 8,
@@ -53,11 +53,11 @@
     "rank": 6,
     "name": "Liverpool FC",
     "logo": "https://crests.football-data.org/64.png",
-    "played": 25,
+    "played": 26,
     "wins": 11,
-    "draws": 6,
+    "draws": 7,
     "losses": 8,
-    "points": 39
+    "points": 40
   },
   {
     "rank": 7,
@@ -91,6 +91,16 @@
   },
   {
     "rank": 10,
+    "name": "Sunderland AFC",
+    "logo": "https://crests.football-data.org/71.png",
+    "played": 26,
+    "wins": 9,
+    "draws": 10,
+    "losses": 7,
+    "points": 37
+  },
+  {
+    "rank": 11,
     "name": "Newcastle United FC",
     "logo": "https://crests.football-data.org/67.png",
     "played": 26,
@@ -100,44 +110,34 @@
     "points": 36
   },
   {
-    "rank": 11,
-    "name": "Sunderland AFC",
-    "logo": "https://crests.football-data.org/71.png",
-    "played": 25,
-    "wins": 9,
-    "draws": 9,
-    "losses": 7,
-    "points": 36
-  },
-  {
     "rank": 12,
     "name": "Fulham FC",
     "logo": "https://crests.football-data.org/63.png",
-    "played": 25,
+    "played": 26,
     "wins": 10,
     "draws": 4,
-    "losses": 11,
+    "losses": 12,
     "points": 34
   },
   {
     "rank": 13,
-    "name": "Crystal Palace FC",
-    "logo": "https://crests.football-data.org/354.png",
-    "played": 25,
-    "wins": 8,
-    "draws": 8,
-    "losses": 9,
+    "name": "Brighton & Hove Albion FC",
+    "logo": "https://crests.football-data.org/397.png",
+    "played": 26,
+    "wins": 7,
+    "draws": 11,
+    "losses": 8,
     "points": 32
   },
   {
     "rank": 14,
-    "name": "Brighton & Hove Albion FC",
-    "logo": "https://crests.football-data.org/397.png",
-    "played": 25,
-    "wins": 7,
-    "draws": 10,
-    "losses": 8,
-    "points": 31
+    "name": "Crystal Palace FC",
+    "logo": "https://crests.football-data.org/354.png",
+    "played": 26,
+    "wins": 8,
+    "draws": 8,
+    "losses": 10,
+    "points": 32
   },
   {
     "rank": 15,
@@ -163,40 +163,40 @@
     "rank": 17,
     "name": "Nottingham Forest FC",
     "logo": "https://crests.football-data.org/351.png",
-    "played": 25,
+    "played": 26,
     "wins": 7,
-    "draws": 5,
+    "draws": 6,
     "losses": 13,
-    "points": 26
+    "points": 27
   },
   {
     "rank": 18,
     "name": "West Ham United FC",
     "logo": "https://crests.football-data.org/563.png",
     "played": 26,
-    "wins": 7,
-    "draws": 5,
+    "wins": 6,
+    "draws": 6,
     "losses": 14,
-    "points": 26
+    "points": 24
   },
   {
     "rank": 19,
     "name": "Burnley FC",
     "logo": "https://crests.football-data.org/328.png",
-    "played": 25,
-    "wins": 3,
+    "played": 26,
+    "wins": 4,
     "draws": 6,
     "losses": 16,
-    "points": 15
+    "points": 18
   },
   {
     "rank": 20,
     "name": "Wolverhampton Wanderers FC",
     "logo": "https://crests.football-data.org/76.png",
-    "played": 25,
+    "played": 26,
     "wins": 1,
-    "draws": 5,
+    "draws": 6,
     "losses": 19,
-    "points": 8
+    "points": 9
   }
 ]
