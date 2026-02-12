@@ -3,11 +3,11 @@
     "rank": 1,
     "name": "Arsenal FC",
     "logo": "https://crests.football-data.org/57.png",
-    "played": 25,
+    "played": 26,
     "wins": 17,
-    "draws": 5,
+    "draws": 6,
     "losses": 3,
-    "points": 56
+    "points": 57
   },
   {
     "rank": 2,
@@ -24,10 +24,10 @@
     "name": "Aston Villa FC",
     "logo": "https://crests.football-data.org/58.png",
     "played": 26,
-    "wins": 14,
-    "draws": 6,
+    "wins": 15,
+    "draws": 5,
     "losses": 6,
-    "points": 48
+    "points": 50
   },
   {
     "rank": 4,
@@ -54,20 +54,20 @@
     "name": "Liverpool FC",
     "logo": "https://crests.football-data.org/64.png",
     "played": 26,
-    "wins": 11,
-    "draws": 7,
+    "wins": 12,
+    "draws": 6,
     "losses": 8,
-    "points": 40
+    "points": 42
   },
   {
     "rank": 7,
     "name": "Brentford FC",
     "logo": "https://crests.football-data.org/402.png",
-    "played": 25,
+    "played": 26,
     "wins": 12,
-    "draws": 3,
+    "draws": 4,
     "losses": 10,
-    "points": 39
+    "points": 40
   },
   {
     "rank": 8,
@@ -91,22 +91,22 @@
   },
   {
     "rank": 10,
-    "name": "Sunderland AFC",
-    "logo": "https://crests.football-data.org/71.png",
-    "played": 26,
-    "wins": 9,
-    "draws": 10,
-    "losses": 7,
-    "points": 37
-  },
-  {
-    "rank": 11,
     "name": "Newcastle United FC",
     "logo": "https://crests.football-data.org/67.png",
     "played": 26,
     "wins": 10,
     "draws": 6,
     "losses": 10,
+    "points": 36
+  },
+  {
+    "rank": 11,
+    "name": "Sunderland AFC",
+    "logo": "https://crests.football-data.org/71.png",
+    "played": 26,
+    "wins": 9,
+    "draws": 9,
+    "losses": 8,
     "points": 36
   },
   {
@@ -121,16 +121,6 @@
   },
   {
     "rank": 13,
-    "name": "Brighton & Hove Albion FC",
-    "logo": "https://crests.football-data.org/397.png",
-    "played": 26,
-    "wins": 7,
-    "draws": 11,
-    "losses": 8,
-    "points": 32
-  },
-  {
-    "rank": 14,
     "name": "Crystal Palace FC",
     "logo": "https://crests.football-data.org/354.png",
     "played": 26,
@@ -138,6 +128,16 @@
     "draws": 8,
     "losses": 10,
     "points": 32
+  },
+  {
+    "rank": 14,
+    "name": "Brighton & Hove Albion FC",
+    "logo": "https://crests.football-data.org/397.png",
+    "played": 26,
+    "wins": 7,
+    "draws": 10,
+    "losses": 9,
+    "points": 31
   },
   {
     "rank": 15,
