@@ -15,7 +15,7 @@ async function update() {
     const standings = data.standings[0].table.map(item => ({
       rank: item.position,
       name: item.team.name,
-      shortname: item.team.shortname,
+      shortname: item.team.shortName,
       logo: item.team.crest,
       played: item.playedGames,
       wins: item.won,
