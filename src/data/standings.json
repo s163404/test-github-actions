@@ -2,6 +2,7 @@
   {
     "rank": 1,
     "name": "Arsenal FC",
+    "shortname": "Arsenal",
     "logo": "https://crests.football-data.org/57.png",
     "played": 26,
     "wins": 17,
@@ -12,6 +13,7 @@
   {
     "rank": 2,
     "name": "Manchester City FC",
+    "shortname": "Man City",
     "logo": "https://crests.football-data.org/65.png",
     "played": 26,
     "wins": 16,
@@ -22,6 +24,7 @@
   {
     "rank": 3,
     "name": "Aston Villa FC",
+    "shortname": "Aston Villa",
     "logo": "https://crests.football-data.org/58.png",
     "played": 26,
     "wins": 15,
@@ -32,6 +35,7 @@
   {
     "rank": 4,
     "name": "Manchester United FC",
+    "shortname": "Man United",
     "logo": "https://crests.football-data.org/66.png",
     "played": 26,
     "wins": 12,
@@ -42,6 +46,7 @@
   {
     "rank": 5,
     "name": "Chelsea FC",
+    "shortname": "Chelsea",
     "logo": "https://crests.football-data.org/61.png",
     "played": 26,
     "wins": 12,
@@ -52,6 +57,7 @@
   {
     "rank": 6,
     "name": "Liverpool FC",
+    "shortname": "Liverpool",
     "logo": "https://crests.football-data.org/64.png",
     "played": 26,
     "wins": 12,
@@ -62,6 +68,7 @@
   {
     "rank": 7,
     "name": "Brentford FC",
+    "shortname": "Brentford",
     "logo": "https://crests.football-data.org/402.png",
     "played": 26,
     "wins": 12,
@@ -72,6 +79,7 @@
   {
     "rank": 8,
     "name": "Everton FC",
+    "shortname": "Everton",
     "logo": "https://crests.football-data.org/62.png",
     "played": 26,
     "wins": 10,
@@ -82,6 +90,7 @@
   {
     "rank": 9,
     "name": "AFC Bournemouth",
+    "shortname": "Bournemouth",
     "logo": "https://crests.football-data.org/bournemouth.png",
     "played": 26,
     "wins": 9,
@@ -92,6 +101,7 @@
   {
     "rank": 10,
     "name": "Newcastle United FC",
+    "shortname": "Newcastle",
     "logo": "https://crests.football-data.org/67.png",
     "played": 26,
     "wins": 10,
@@ -102,6 +112,7 @@
   {
     "rank": 11,
     "name": "Sunderland AFC",
+    "shortname": "Sunderland",
     "logo": "https://crests.football-data.org/71.png",
     "played": 26,
     "wins": 9,
@@ -112,6 +123,7 @@
   {
     "rank": 12,
     "name": "Fulham FC",
+    "shortname": "Fulham",
     "logo": "https://crests.football-data.org/63.png",
     "played": 26,
     "wins": 10,
@@ -122,6 +134,7 @@
   {
     "rank": 13,
     "name": "Crystal Palace FC",
+    "shortname": "Crystal Palace",
     "logo": "https://crests.football-data.org/354.png",
     "played": 26,
     "wins": 8,
@@ -132,6 +145,7 @@
   {
     "rank": 14,
     "name": "Brighton & Hove Albion FC",
+    "shortname": "Brighton Hove",
     "logo": "https://crests.football-data.org/397.png",
     "played": 26,
     "wins": 7,
@@ -142,6 +156,7 @@
   {
     "rank": 15,
     "name": "Leeds United FC",
+    "shortname": "Leeds United",
     "logo": "https://crests.football-data.org/341.png",
     "played": 26,
     "wins": 7,
@@ -152,6 +167,7 @@
   {
     "rank": 16,
     "name": "Tottenham Hotspur FC",
+    "shortname": "Tottenham",
     "logo": "https://crests.football-data.org/73.png",
     "played": 26,
     "wins": 7,
@@ -162,6 +178,7 @@
   {
     "rank": 17,
     "name": "Nottingham Forest FC",
+    "shortname": "Nottingham",
     "logo": "https://crests.football-data.org/351.png",
     "played": 26,
     "wins": 7,
@@ -172,6 +189,7 @@
   {
     "rank": 18,
     "name": "West Ham United FC",
+    "shortname": "West Ham",
     "logo": "https://crests.football-data.org/563.png",
     "played": 26,
     "wins": 6,
@@ -182,6 +200,7 @@
   {
     "rank": 19,
     "name": "Burnley FC",
+    "shortname": "Burnley",
     "logo": "https://crests.football-data.org/328.png",
     "played": 26,
     "wins": 4,
@@ -192,6 +211,7 @@
   {
     "rank": 20,
     "name": "Wolverhampton Wanderers FC",
+    "shortname": "Wolverhampton",
     "logo": "https://crests.football-data.org/76.png",
     "played": 26,
     "wins": 1,
