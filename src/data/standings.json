@@ -4,11 +4,11 @@
     "name": "Arsenal FC",
     "shortname": "Arsenal",
     "logo": "https://crests.football-data.org/57.png",
-    "played": 26,
-    "wins": 17,
+    "played": 27,
+    "wins": 18,
     "draws": 6,
     "losses": 3,
-    "points": 57
+    "points": 60
   },
   {
     "rank": 2,
@@ -213,10 +213,10 @@
     "name": "Wolverhampton Wanderers FC",
     "shortname": "Wolverhampton",
     "logo": "https://crests.football-data.org/76.png",
-    "played": 26,
+    "played": 27,
     "wins": 1,
     "draws": 6,
-    "losses": 19,
+    "losses": 20,
     "points": 9
   }
 ]
