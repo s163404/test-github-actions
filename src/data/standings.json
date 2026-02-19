@@ -5,10 +5,10 @@
     "shortname": "Arsenal",
     "logo": "https://crests.football-data.org/57.png",
     "played": 27,
-    "wins": 18,
-    "draws": 6,
+    "wins": 17,
+    "draws": 7,
     "losses": 3,
-    "points": 60
+    "points": 58
   },
   {
     "rank": 2,
@@ -215,8 +215,8 @@
     "logo": "https://crests.football-data.org/76.png",
     "played": 27,
     "wins": 1,
-    "draws": 6,
-    "losses": 20,
-    "points": 9
+    "draws": 7,
+    "losses": 19,
+    "points": 10
   }
 ]
