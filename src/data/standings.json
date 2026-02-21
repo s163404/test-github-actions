@@ -15,25 +15,36 @@
     "name": "Manchester City FC",
     "shortname": "Man City",
     "logo": "https://crests.football-data.org/65.png",
-    "played": 26,
-    "wins": 16,
+    "played": 27,
+    "wins": 17,
     "draws": 5,
     "losses": 5,
-    "points": 53
+    "points": 56
   },
   {
     "rank": 3,
     "name": "Aston Villa FC",
     "shortname": "Aston Villa",
     "logo": "https://crests.football-data.org/58.png",
-    "played": 26,
+    "played": 27,
     "wins": 15,
-    "draws": 5,
+    "draws": 6,
     "losses": 6,
-    "points": 50
+    "points": 51
   },
   {
     "rank": 4,
+    "name": "Chelsea FC",
+    "shortname": "Chelsea",
+    "logo": "https://crests.football-data.org/61.png",
+    "played": 27,
+    "wins": 12,
+    "draws": 9,
+    "losses": 6,
+    "points": 45
+  },
+  {
+    "rank": 5,
     "name": "Manchester United FC",
     "shortname": "Man United",
     "logo": "https://crests.football-data.org/66.png",
@@ -42,17 +53,6 @@
     "draws": 9,
     "losses": 5,
     "points": 45
-  },
-  {
-    "rank": 5,
-    "name": "Chelsea FC",
-    "shortname": "Chelsea",
-    "logo": "https://crests.football-data.org/61.png",
-    "played": 26,
-    "wins": 12,
-    "draws": 8,
-    "losses": 6,
-    "points": 44
   },
   {
     "rank": 6,
@@ -70,14 +70,25 @@
     "name": "Brentford FC",
     "shortname": "Brentford",
     "logo": "https://crests.football-data.org/402.png",
-    "played": 26,
+    "played": 27,
     "wins": 12,
     "draws": 4,
-    "losses": 10,
+    "losses": 11,
     "points": 40
   },
   {
     "rank": 8,
+    "name": "AFC Bournemouth",
+    "shortname": "Bournemouth",
+    "logo": "https://crests.football-data.org/bournemouth.png",
+    "played": 27,
+    "wins": 9,
+    "draws": 11,
+    "losses": 7,
+    "points": 38
+  },
+  {
+    "rank": 9,
     "name": "Everton FC",
     "shortname": "Everton",
     "logo": "https://crests.football-data.org/62.png",
@@ -88,25 +99,14 @@
     "points": 37
   },
   {
-    "rank": 9,
-    "name": "AFC Bournemouth",
-    "shortname": "Bournemouth",
-    "logo": "https://crests.football-data.org/bournemouth.png",
-    "played": 26,
-    "wins": 9,
-    "draws": 10,
-    "losses": 7,
-    "points": 37
-  },
-  {
     "rank": 10,
     "name": "Newcastle United FC",
     "shortname": "Newcastle",
     "logo": "https://crests.football-data.org/67.png",
-    "played": 26,
+    "played": 27,
     "wins": 10,
     "draws": 6,
-    "losses": 10,
+    "losses": 11,
     "points": 36
   },
   {
@@ -122,6 +122,17 @@
   },
   {
     "rank": 12,
+    "name": "Brighton & Hove Albion FC",
+    "shortname": "Brighton Hove",
+    "logo": "https://crests.football-data.org/397.png",
+    "played": 27,
+    "wins": 8,
+    "draws": 10,
+    "losses": 9,
+    "points": 34
+  },
+  {
+    "rank": 13,
     "name": "Fulham FC",
     "shortname": "Fulham",
     "logo": "https://crests.football-data.org/63.png",
@@ -132,7 +143,7 @@
     "points": 34
   },
   {
-    "rank": 13,
+    "rank": 14,
     "name": "Crystal Palace FC",
     "shortname": "Crystal Palace",
     "logo": "https://crests.football-data.org/354.png",
@@ -143,26 +154,15 @@
     "points": 32
   },
   {
-    "rank": 14,
-    "name": "Brighton & Hove Albion FC",
-    "shortname": "Brighton Hove",
-    "logo": "https://crests.football-data.org/397.png",
-    "played": 26,
-    "wins": 7,
-    "draws": 10,
-    "losses": 9,
-    "points": 31
-  },
-  {
     "rank": 15,
     "name": "Leeds United FC",
     "shortname": "Leeds United",
     "logo": "https://crests.football-data.org/341.png",
-    "played": 26,
+    "played": 27,
     "wins": 7,
-    "draws": 9,
+    "draws": 10,
     "losses": 10,
-    "points": 30
+    "points": 31
   },
   {
     "rank": 16,
@@ -191,22 +191,22 @@
     "name": "West Ham United FC",
     "shortname": "West Ham",
     "logo": "https://crests.football-data.org/563.png",
-    "played": 26,
+    "played": 27,
     "wins": 6,
-    "draws": 6,
+    "draws": 7,
     "losses": 14,
-    "points": 24
+    "points": 25
   },
   {
     "rank": 19,
     "name": "Burnley FC",
     "shortname": "Burnley",
     "logo": "https://crests.football-data.org/328.png",
-    "played": 26,
+    "played": 27,
     "wins": 4,
-    "draws": 6,
+    "draws": 7,
     "losses": 16,
-    "points": 18
+    "points": 19
   },
   {
     "rank": 20,
